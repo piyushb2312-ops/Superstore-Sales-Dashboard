@@ -24,6 +24,7 @@ The goal of this project is to:
 
 
 📊 Dashboard Features
+
 ✅ Interactive Regional Filters
 ✅ KPI Summary Cards
 ✅ Sales & Profit Trend Analysis
