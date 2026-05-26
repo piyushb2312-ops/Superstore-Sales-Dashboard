@@ -26,16 +26,24 @@ The goal of this project is to:
 📊 Dashboard Features
 
 ✅ Interactive Regional Filters
+
 ✅ KPI Summary Cards
+
 ✅ Sales & Profit Trend Analysis
+
 ✅ Category & Sub-Category Insights
+
 ✅ Payment Mode Analysis
+
 ✅ Segment-wise Sales Distribution
+
 ✅ State-wise Sales & Profit Comparison
+
 ✅ Shipping Mode Performance Analysis
 
+
 📷 Dashboard Preview
-SuperStore Sales Dashboard
+SuperStore Sales Dashboard :- https://github.com/piyushb2312-ops/Superstore-Sales-Dashboard/blob/main/Superstore%20Sales%20Dashboard.png
 
 Replace the image path with your uploaded dashboard screenshot path inside your GitHub repository.
 
