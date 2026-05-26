@@ -26,19 +26,12 @@ The goal of this project is to:
 📊 Dashboard Features
 
 ✅ Interactive Regional Filters
-
 ✅ KPI Summary Cards
-
 ✅ Sales & Profit Trend Analysis
-
 ✅ Category & Sub-Category Insights
-
 ✅ Payment Mode Analysis
-
 ✅ Segment-wise Sales Distribution
-
 ✅ State-wise Sales & Profit Comparison
-
 ✅ Shipping Mode Performance Analysis
 
 
