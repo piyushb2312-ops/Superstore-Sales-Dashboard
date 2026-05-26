@@ -51,30 +51,30 @@ Replace the image path with your uploaded dashboard screenshot path inside your 
 📈 Dashboard Insights
 
 🔹 Sales by Region
-- West region contributes the highest sales share (33%).
-- East region is the second strongest contributor.
+West region contributes the highest sales share (33%).
+East region is the second strongest contributor.
 🔹 Sales by Segment
-- Consumer segment generates the highest sales (48%).
-- Corporate and Home Office segments contribute moderate sales.
+Consumer segment generates the highest sales (48%).
+Corporate and Home Office segments contribute moderate sales.
 🔹 Sales by Payment Mode
-- COD is the most preferred payment method (43%).
-- Online and Card payments also contribute significantly.
+COD is the most preferred payment method (43%).
+Online and Card payments also contribute significantly.
 🔹 Sales & Profit Trends
-- Sales and profit increase significantly during the final quarter of the year.
-- November and December show peak business performance.
+Sales and profit increase significantly during the final quarter of the year.
+November and December show peak business performance.
 🔹 Sales by Ship Mode
-- Standard Class shipping contributes the highest sales volume.
-- Same Day shipping has the lowest contribution.
+Standard Class shipping contributes the highest sales volume.
+Same Day shipping has the lowest contribution.
 🔹 Top Performing Sub-Categories
-- Highest sales observed in:
+Highest sales observed in:
 
-- Phones
-- Chairs
-- Binders
-- Storage
+Phones
+Chairs
+Binders
+Storage
 🔹 State-wise Analysis
-- California and New York generate the highest sales and profit.
-- Some states show high sales but comparatively lower profit margins.
+California and New York generate the highest sales and profit.
+Some states show high sales but comparatively lower profit margins.
 
 
 🧹 Data Cleaning & Transformation
